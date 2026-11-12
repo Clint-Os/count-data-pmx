@@ -1,6 +1,6 @@
 # Modelling Count Data in Pharmacometrics, Part 1: From Events to the Poisson Model
 
-*Part 1 of a three-part series based on Elodie Plan's tutorial "Modeling and Simulation of Count Data" (CPT: Pharmacometrics & Systems Pharmacology, 2014). Every figure is produced by R code you can run yourself; the scripts are in the companion repository: `<add your GitHub repository link>`.*
+*Part 1 of a three-part series based on Elodie Plan's tutorial "Modeling and Simulation of Count Data" (CPT: Pharmacometrics & Systems Pharmacology, 2014). Every figure is produced by R code you can run yourself; the scripts are in the companion repository: `https://github.com/Clint-Os/count-data-pmx.git`
 
 **Series plan**
 
